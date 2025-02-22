@@ -71,18 +71,18 @@ Senior Backend Engineer with DevOps, specialized in:
 ## Let's Connect 🤝
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/bumwoo-park-ab80a2128/" target="_blank">
+    <a href="https://www.linkedin.com/in/bumwoo-park-ab80a2128" target="_blank">
         <img height="28" src="./assets/linkedin.svg" alt="LinkedIn">
     </a>
     &nbsp;
     &nbsp;
-    <a href="https://github.com/gobenpark" target="_blank">
-        <img height="28" src="./assets/github.svg" alt="GitHub">
+    <a href="https://gobenpark.substack.com/" target="_blank">
+        <img height="28" src="./assets/substack.svg" alt="GitHub">
     </a>
     &nbsp;
     &nbsp;
-    <a href="mailto:qjadn0914@gmail.com">
-        <img height="28" src="./assets/email.svg" alt="Email">
+    <a href="mailto:qjadn0914@gmail.com" target="_blank">
+        <img height="28" src="./assets/mail.svg" alt="Email">
     </a>
 </p>
 

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+    <defs opacity=".38">
+        <rect id="email-bg" width="44" height="36" x="3" y="7" opacity=".38"></rect>
+    </defs>
+    <!-- Envelope top flap -->
+    <path d="M47,7L25,24L3,7H47z"></path>
+    <!-- Envelope body -->
+    <path d="M3,11v32h44V11L25,28L3,11z"></path>
+</svg>
