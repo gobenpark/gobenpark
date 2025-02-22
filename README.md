@@ -62,11 +62,6 @@ Senior Backend Engineer with DevOps, specialized in:
 - Implemented signed URL system and process agent separation
 - Reduced p99 latency by 40%
 
-## GitHub Stats 📊
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=gobenpark&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
 
 ## Let's Connect 🤝
 
