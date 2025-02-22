@@ -71,7 +71,7 @@ Senior Backend Engineer with DevOps, specialized in:
 ## Let's Connect 🤝
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/bepark-ab80a2128/" target="_blank">
+    <a href="https://www.linkedin.com/in/bumwoo-park-ab80a2128/" target="_blank">
         <img height="28" src="./assets/linkedin.svg" alt="LinkedIn">
     </a>
     &nbsp;
