@@ -1,4 +1,3 @@
-# Hello, I'm Bumwoo Park 👋
 
 <p align="center">
     <img src="./assets/header.svg" alt="Senior Backend Engineer specializing in Go, DevOps, and AI/LLM applications. Passionate about high-performance systems and cloud infrastructure." />
