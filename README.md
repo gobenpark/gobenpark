@@ -62,28 +62,18 @@ Senior Backend Engineer with DevOps, specialized in:
 - Implemented signed URL system and process agent separation
 - Reduced p99 latency by 40%
 
-## GitHub Stats 📊
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=gobenpark&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
 ## Let's Connect 🤝
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/bumwoo-park-ab80a2128" target="_blank">
-        <img height="28" src="./assets/linkedin.svg" alt="LinkedIn">
-    </a>
+    <a href="https://www.linkedin.com/in/bumwoo-park-ab80a2128" target="_blank"><img height="28" src="./assets/linkedin.svg" alt="LinkedIn"></a>
     &nbsp;
     &nbsp;
-    <a href="https://gobenpark.substack.com/" target="_blank">
-        <img height="28" src="./assets/substack.svg" alt="GitHub">
-    </a>
+    &nbsp;
+    <a href="https://gobenpark.substack.com/"><img height="28" src="./assets/substack.svg" alt="GitHub"></a>
     &nbsp;
     &nbsp;
-    <a href="mailto:qjadn0914@gmail.com" target="_blank">
-        <img height="28" src="./assets/mail.svg" alt="Email">
-    </a>
+    &nbsp;
+    <a href="mailto:qjadn0914@gmail.com"><img height="28" src="./assets/mail.svg" alt="Email"></a>
 </p>
 
 ---
