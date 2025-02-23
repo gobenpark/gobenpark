@@ -14,35 +14,35 @@ Senior Backend Engineer with DevOps, specialized in:
 ## Tech Stack 💪
 
 <p align="center">
-    <img height="28" src="./assets/golang.svg" alt="Golang">
+    <img height="40" src="./assets/golang.svg" alt="Golang">
     &nbsp;
     &nbsp;
-    <img height="28" src="./assets/kubernetes.svg" alt="Kubernetes">
+    <img height="40" src="./assets/kubernetes.svg" alt="Kubernetes">
     &nbsp;
     &nbsp;
-    <img height="28" src="./assets/docker.svg" alt="Docker">
+    <img height="40" src="./assets/docker.svg" alt="Docker">
     &nbsp;
     &nbsp;
-    <img height="28" src="./assets/python.svg" alt="Python">
+    <img height="40" src="./assets/python.svg" alt="Python">
     &nbsp;
     &nbsp;
-    <img height="28" src="./assets/grpc.svg" alt="gRPC">
+    <img height="40" src="./assets/grpc.svg" alt="gRPC">
 </p>
 
 <p align="center">
-    <img height="28" src="./assets/argocd.svg" alt="ArgoCD">
+    <img height="40" src="./assets/argocd.svg" alt="ArgoCD">
     &nbsp;
     &nbsp;
-    <img height="28" src="./assets/istioio-icon.svg" alt="Linkerd">
+    <img height="40" src="./assets/istioio-icon.svg" alt="Linkerd">
     &nbsp;
     &nbsp;
-    <img height="28" src="./assets/elasticsearch.svg" alt="Elasticsearch">
+    <img height="40" src="./assets/elasticsearch.svg" alt="Elasticsearch">
     &nbsp;
     &nbsp;
-    <img height="28" src="./assets/mariadb.svg" alt="MariaDB">
+    <img height="40" src="./assets/mariadb.svg" alt="MariaDB">
     &nbsp;
     &nbsp;
-    <img height="28" src="./assets/postgresql.svg" alt="PostgreSQL">
+    <img height="40" src="./assets/postgresql.svg" alt="PostgreSQL">
 </p>
 
 ## Key Projects 🌟
