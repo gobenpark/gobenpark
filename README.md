@@ -33,7 +33,7 @@ Senior Backend Engineer with DevOps, specialized in:
     <img height="28" src="./assets/argocd.svg" alt="ArgoCD">
     &nbsp;
     &nbsp;
-    <img height="28" src="./assets/linkerd.svg" alt="Linkerd">
+    <img height="28" src="./assets/istioio-icon.svg" alt="Linkerd">
     &nbsp;
     &nbsp;
     <img height="28" src="./assets/elasticsearch.svg" alt="Elasticsearch">
