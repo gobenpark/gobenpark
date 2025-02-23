@@ -14,7 +14,7 @@ Senior Backend Engineer with DevOps, specialized in:
 ## Tech Stack 💪
 
 <p align="center">
-    <img height="28" src="./assets/go.svg" alt="Golang">
+    <img height="28" src="./assets/golang.svg" alt="Golang">
     &nbsp;
     &nbsp;
     <img height="28" src="./assets/kubernetes.svg" alt="Kubernetes">
