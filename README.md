@@ -5,7 +5,7 @@
 
 ## About Me 🚀
 
-Senior Backend Engineer with DevOps, specialized in:
+Backend Engineer with DevOps, specialized in:
 - 💻 High-performance Go/gRPC server development
 - 🛠 Kubernetes & Cloud Infrastructure
 - 🤖 AI/LLM Application Development
