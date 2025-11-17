@@ -3,7 +3,7 @@
     <img src="./assets/header.svg" alt="Backend Engineer specializing in Go, DevOps, and AI/LLM applications. Passionate about high-performance systems and cloud infrastructure." />
 </p>
 
-## About Me (Gohper) 🚀
+## About Me (Gopher) 🚀
 
 Backend Engineer with DevOps, specialized in:
 - 💻 High-performance Go/gRPC server development
